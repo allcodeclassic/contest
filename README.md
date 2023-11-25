@@ -1,2 +1,3 @@
 # contest
-All contest
+
+# Educational DP Contest
