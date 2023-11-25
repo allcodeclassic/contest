@@ -1,3 +1,3 @@
 # Contest
 
-[Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
+- [Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
